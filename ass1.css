@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+    color: rgb(15, 70, 158);
+}
+div {
+    width: 30%;
+    height: 40%;
+    background-color: rgb(73, 141, 140);
+    color: rgb(255, 255, 255);
+    margin: 5%;
+    padding: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.par {
+    text-decoration: underline;
+    font-size: 25px;
+    color: black;
+}
+li {
+    background-color: rgb(73, 141, 140);
+}
+main {
+    display: flex;
+    justify-content: baseline;
+}
+ 
